@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bonus
+  - UI_Remover
+  - Enemy
+  - Key
+  - Heart
+  - FallLevel
+  - Checkpoint
+  - MovingPlatform
+  - UsedCheckpoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3762181209
+    locked: 0
+  - name: Tilemap
+    uniqueID: 898175197
+    locked: 0
+  - name: Props
+    uniqueID: 2138286643
+    locked: 0
+  - name: Platforms
+    uniqueID: 3068035013
+    locked: 0
+  - name: Player & Enemies
+    uniqueID: 29135481
+    locked: 0
+  - name: Foreground
+    uniqueID: 724445475
+    locked: 0
